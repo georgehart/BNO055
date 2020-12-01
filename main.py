@@ -10,7 +10,7 @@
 #
 # BNO055 Calculating position datas (x,y,z) based on accelerometer datas:
 # https://community.bosch-sensortec.com/t5/MEMS-sensors-forum/BNO055-Calculating-position-datas-x-y-z-based-on-accelerometer/td-p/1300
-#
+# https://github.com/micropython-IMU/micropython-bno055/blob/master/README.md#33-changing-the-device-configuration
 #
 # ----------------------------------------------
 
